@@ -1,0 +1,51 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 100px;
+    color: white;
+}
+
+body, html
+{
+    height: 100vh;
+    margin-top: 1000px;
+    background: #333;
+}
+
+.navbar
+{
+    background-color: blue;
+    color: white;
+    font-weight: 500;
+
+}
+
+
+
+/* Dodaj style CSS */
+body {
+    background-color: #f8f9fa;
+}
+
+.jumbotron {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.jumbotron hr {
+    border-color: #ffffff;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.col-md-6 {
+    margin-bottom: 20px;
+}
