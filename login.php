@@ -2,7 +2,7 @@
 
 
     <section class="container" style="margin-top: 100px;">
-        <h2>Zaloguj się</h2>
+        <h2 class="text-white">Zaloguj się</h2>
         <form class="row g-3" action="inc/login.inc.php" method="post">
             <input class="form-control" type="text" name="uid" placeholder="Nazwa Użytkownika/Email">
             <input class="form-control"  type="password" name="pwd" placeholder="Hasło">

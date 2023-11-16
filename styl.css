@@ -6,7 +6,7 @@
     color: white;
 }
 
-body, html
+body
 {
     height: 100vh;
     background: #333;
@@ -14,10 +14,7 @@ body, html
 
 .navbar
 {
-    background-color: blue;
-    color: white;
-    font-weight: 500;
-
+    font-size: 30px;
 }
 
 .jumbotron {
@@ -40,4 +37,10 @@ ul {
 
 .col-md-6 {
     margin-bottom: 20px;
+}
+
+
+header
+{
+    background-image: url(Jordan.jpg);
 }

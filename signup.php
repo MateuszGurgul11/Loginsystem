@@ -2,7 +2,7 @@
 
 
     <section class="container" style="margin-top: 100px;">
-        <h2>Zarejestruj się</h2>
+        <h2 class="text-white">Zarejestruj się</h2>
         <form class="row g-4" action="inc/signup.inc.php" method="post">
             <div class="col md-6"><input class="form-control" type="text" name="name" placeholder="Imie i Nazwisko..."></div>
             <div class="col md-6"><input class="form-control" type="text" name="email" placeholder="Email"></div>
